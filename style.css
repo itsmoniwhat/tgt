@@ -1,0 +1,132 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Love Ya Like A Sister', sans-serif;
+}
+
+H1 {
+  font-family: 'Merriweather', cursive;
+  font-size: 60px;
+  color: #66BFBF;
+  margin: 50px auto 0 auto
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Love Ya Like A Sister'sans-serif;
+  font-size: 20px;
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+a {
+  color: #66BFBF;
+  margin: 10px 20px;
+  font-family: 'Love Ya Like A Sister'sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.intro {
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+.top-container {
+  background-color: #afeeee;
+  text-align: center;
+  padding-top: 100px;
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #11999E;
+  padding: 50px 0 20px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.paint-img {
+  text-align: right;
+  margin: auto;
+}
+
+.skill-row {
+  width: 30%;
+  margin: auto;
+}
+
+.btn {
+  background: #177d78;
+  background-image: -webkit-linear-gradient(top, #177d78, #0b3d5c);
+  background-image: -moz-linear-gradient(top, #177d78, #0b3d5c);
+  background-image: -ms-linear-gradient(top, #177d78, #0b3d5c);
+  background-image: -o-linear-gradient(top, #177d78, #0b3d5c);
+  background-image: linear-gradient(to bottom, #177d78, #0b3d5c);
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #26485e;
+  background-image: -webkit-linear-gradient(top, #26485e, #3498db);
+  background-image: -moz-linear-gradient(top, #26485e, #3498db);
+  background-image: -ms-linear-gradient(top, #26485e, #3498db);
+  background-image: -o-linear-gradient(top, #26485e, #3498db);
+  background-image: linear-gradient(to bottom, #26485e, #3498db);
+  text-decoration: none;
+}
+
+.mve-img {
+  text-align: left;
+}
+
+.last-line {
+  color: #ffffff;
+  font-size: 0.75rem;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 70px;
+  right: 350px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
